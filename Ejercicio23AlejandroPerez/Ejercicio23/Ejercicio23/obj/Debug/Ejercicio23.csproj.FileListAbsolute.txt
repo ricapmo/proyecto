@@ -1,0 +1,24 @@
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.pdb
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Form1.resources
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Properties.Resources.resources
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.exe
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.pdb
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Form2.resources
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Form3.resources
+C:\Users\Alex\source\repos\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Form4.resources
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.exe
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\bin\Debug\Ejercicio23.pdb
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csprojAssemblyReference.cache
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Form1.resources
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Form2.resources
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Form3.resources
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Form4.resources
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.Properties.Resources.resources
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.csproj.GenerateResource.cache
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.exe
+E:\Prácticas 1DAW 19-20\ED1DAW1920-Entrega ejercicio 23-69353\Alejandro Perez Favieres_136880_assignsubmission_file_\Ejercicio23AlejandroPerez\Ejercicio23\Ejercicio23\obj\Debug\Ejercicio23.pdb
