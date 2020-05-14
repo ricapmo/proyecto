@@ -27,7 +27,7 @@ namespace Ejercicio23
 
         private void btn_acept_Click(object sender, EventArgs e)
         {
-            acept = true;
+            acept = false;
             this.Close();
         }
     }
