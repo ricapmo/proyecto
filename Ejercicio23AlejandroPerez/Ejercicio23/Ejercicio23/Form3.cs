@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//pa esto haces un form?
 namespace Ejercicio23
 {
     public partial class Form3 : Form
